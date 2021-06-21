@@ -1,1 +1,1 @@
-# A Qt aplication named FileManager
+# A Qt application named FileManager
